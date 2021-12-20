@@ -1,0 +1,135 @@
+flight number: 1
+flight origin: Islamabad
+flight destination: Riyadh
+plane type: Boeing 737
+price: 50000.0
+seats available: 5
+date: 15, October, 2021
+
+passengers
+flight number: 2
+flight origin: Riyadh
+flight destination: Chicago
+plane type: Airbus A320
+price: 80000.0
+seats available: 5
+date: 15, October, 2021
+
+passengers
+flight number: 3
+flight origin: Peshawar
+flight destination: Karachi
+plane type: Boeing 737
+price: 18000.0
+seats available: 5
+date: 21, October, 2021
+
+passengers
+flight number: 4
+flight origin: Islamabad
+flight destination: Karachi
+plane type: Boeing 737
+price: 18000.0
+seats available: 5
+date: 29, October, 2021
+
+passengers
+flight number: 5
+flight origin: Karachi
+flight destination: Dubai
+plane type: Airbus A320
+price: 50000.0
+seats available: 5
+date: 30, October, 2021
+
+passengers
+flight number: 6
+flight origin: Peshawar
+flight destination: Hunza
+plane type: Boeing 737
+price: 9000.0
+seats available: 5
+date: 5, November, 2021
+
+passengers
+flight number: 7
+flight origin: Islamabad
+flight destination: Hunza
+plane type: Boeing 737
+price: 9000.0
+seats available: 5
+date: 5, November, 2021
+
+passengers
+flight number: 8
+flight origin: Riyadh
+flight destination: Peshawar
+plane type: Boeing 777-300ER
+price: 50000.0
+seats available: 5
+date: 10, November, 2021
+
+passengers
+flight number: 9
+flight origin: Riyadh
+flight destination: Karachi
+plane type: Boeing 777-300ER
+price: 50000.0
+seats available: 5
+date: 15, November, 2021
+
+passengers
+flight number: 10
+flight origin: Gwadar
+flight destination: Karachi
+plane type: Boeing 737
+price: 18000.0
+seats available: 5
+date: 15, November, 2021
+
+passengers
+flight number: 11
+flight origin: Gwader
+flight destination: Hunza
+plane type: Boeing 737
+price: 9000.0
+seats available: 5
+date: 15, December, 2021
+
+passengers
+flight number: 12
+flight origin: Gwader
+flight destination: Riyadh
+plane type: Boeing 777-300ER
+price: 50000.0
+seats available: 5
+date: 15, December, 2021
+
+passengers
+flight number: 13
+flight origin: Riyadh
+flight destination: Gwader
+plane type: Boeing 777-300ER
+price: 50000.0
+seats available: 5
+date: 30, October, 2021
+
+passengers
+flight number: 14
+flight origin: Riyadh
+flight destination: Gwader
+plane type: Boeing 777-300ER
+price: 30000.0
+seats available: 5
+date: 15, November, 2021
+
+passengers
+flight number: 15
+flight origin: Chicago
+flight destination: Islamabad
+plane type: Boeing 737
+price: 80000.0
+seats available: 5
+date: 30, October, 2021
+
+passengers

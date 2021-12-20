@@ -1,0 +1,9 @@
+e-ticket
+name: ooar
+address: sad
+plane class: economy
+origin city: Peshawar
+destination city: Karachi
+plane type: Boeing 737
+price paid: 18000.0
+date of flight: 21, October, 2021
